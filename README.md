@@ -7,3 +7,4 @@ Homestuck and all related assets belong under copyright to Andrew Hussie. This g
 The game can be downloaded and played for free on itch.io here: https://christine-kim.itch.io/hf2
 
 
+This game was coded and compiled using Renpy.
